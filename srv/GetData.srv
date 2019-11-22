@@ -1,8 +1,0 @@
-string modeofoperation
----
-Header header
-int64  length
-string EPC
-unit32 port
-unit64 Count 
-
